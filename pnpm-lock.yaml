@@ -485,8 +485,8 @@ importers:
         specifier: 3.0.6
         version: 3.0.6
       '@types/subset-font':
-        specifier: 1.4.3
-        version: 1.4.3
+        specifier: 2.3.0
+        version: 2.3.0
       '@types/throttle-debounce':
         specifier: 5.0.2
         version: 5.0.2
@@ -551,8 +551,8 @@ importers:
         specifier: 1.9.13
         version: 1.9.13
       subset-font:
-        specifier: 2.3.0
-        version: 2.3.0
+        specifier: 2.5.0
+        version: 2.5.0
       tailwindcss:
         specifier: 4.3.2
         version: 4.3.2
@@ -680,7 +680,7 @@ importers:
         version: 6.0.2
       vitest:
         specifier: 4.1.0
-        version: 4.1.0(@types/node@24.9.1)(happy-dom@20.8.9)(jsdom@27.4.0)(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.27.7)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))
+        version: 4.1.0(@types/node@24.9.1)(happy-dom@20.8.9)(jsdom@27.4.0)(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))
 
   packages/contracts:
     dependencies:
@@ -5051,8 +5051,8 @@ packages:
   '@types/stylis@4.2.7':
     resolution: {integrity: sha512-VgDNokpBoKF+wrdvhAAfS55OMQpL6QRglwTwNC3kIgBrzZxA4WsFj+2eLfEA/uMUDzBcEhYmjSbwQakn/i3ajA==}
 
-  '@types/subset-font@1.4.3':
-    resolution: {integrity: sha512-DDCrYTYujq/aEEy+DhI54ld/3TOxUnuCc85dULW+xBOxmvJ5wCg/kFpiUoHlieDxh4GKlhIk/4AnDbeu/WVGGg==}
+  '@types/subset-font@2.3.0':
+    resolution: {integrity: sha512-+u2CzLEE7ZReuBP0Mfz0tBydVZvWESmZpBbL7sc+J+qB9ImNp1QmOptMe28uXj2aRPDoQhQF3dubXMgwo56gIg==}
 
   '@types/superagent@8.1.8':
     resolution: {integrity: sha512-nTqHJ2OTa7PFEpLahzSEEeFeqbMpmcN7OeayiOc7v+xk+/vyTKljRe+o4MPqSnPeRCMvtxuLG+5QqluUVQJOnA==}
@@ -7080,9 +7080,6 @@ packages:
   fast-safe-stringify@2.1.1:
     resolution: {integrity: sha512-W+KJc2dmILlPplD/H4K9l9LcAHAfPtP6BY84uVLXQ6Evcz9Lcg33Y2z1IVblT6xdY54PXYVHEv+0Wpq8Io6zkA==}
 
-  fast-uri@3.1.2:
-    resolution: {integrity: sha512-rVjf7ArG3LTk+FS6Yw81V1DLuZl1bRbNrev6Tmd/9RaroeeRRJhAt7jg/6YFxbvAQXUCavSoZhPPj6oOx+5KjQ==}
-
   fast-uri@3.1.3:
     resolution: {integrity: sha512-i70LwGWUduXqzicKXWshooq+sWL1K3WUU5rKZNG/0i3a1OSoX3HqhH5WbWwTmqWfor4urUakGPiRQcleRZTwOg==}
 
@@ -7562,8 +7559,8 @@ packages:
     resolution: {integrity: sha512-Tz23LR9T9jOGVZm2x1EPdXqwA37G/owYMxRwU0E4miurAtFsPMQ1d2Jc2okUaSjZqAFz2oEn3FLXC5a0a+siyA==}
     engines: {node: '>=20.0.0'}
 
-  harfbuzzjs@0.3.6:
-    resolution: {integrity: sha512-dzf7y6NS8fiAIvPAL/VKwY8wx2HCzUB0vUfOo6h1J5UilFEEf7iYqFsvgwjHwvM3whbjfOMadNvQekU3KuRnWQ==}
+  harfbuzzjs@0.10.3:
+    resolution: {integrity: sha512-GJnLUrgLMadlMYrBGEXwYEimObbysy3prWT4HyPpFQERvgTU/OZ+ReUlEPOum6w4RBtFXzXiCCmECOr4sz3qwQ==}
 
   has-bigints@1.1.0:
     resolution: {integrity: sha512-R3pbpkcIqv2Pm3dUwgjclDRVmWpTJW2DcMzcIhEXEx1oh/CEMObMm3KLmRJOdvhM7o4uQBnwr8pzRK2sJWIqfg==}
@@ -10892,8 +10889,8 @@ packages:
     engines: {node: '>=18'}
     hasBin: true
 
-  subset-font@2.3.0:
-    resolution: {integrity: sha512-RcB2cu/14zYxGceTnnptlc8uTuxMkVYdyu3Kj+CA1nye6bI1s1cSSp+ApzpkMzl8iAmEUt+zAE0VHvhVpTO/Ig==}
+  subset-font@2.5.0:
+    resolution: {integrity: sha512-Vsa8ngQ/ohhUj0an7on49y9jLZ2rK5U+T1FzPM4/ZQY0xUy5mLis6BfFtPGzecTjFgYXQlvY7FlsJF4t3R/6Ug==}
 
   sucrase@3.35.0:
     resolution: {integrity: sha512-8EbVDiu9iN/nESwxeSxDKe0dunta1GOlHufmSSXxMD2z2/tMZpDMpvXQGsc+ajGo8y2uYUmixaSRUc/QPoQ0GA==}
@@ -16267,7 +16264,7 @@ snapshots:
 
   '@types/stylis@4.2.7': {}
 
-  '@types/subset-font@1.4.3':
+  '@types/subset-font@2.3.0':
     dependencies:
       '@types/node': 24.9.1
 
@@ -16580,6 +16577,14 @@ snapshots:
     optionalDependencies:
       vite: 7.3.2(@types/node@24.9.1)(jiti@2.7.0)(lightningcss@1.32.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3)
 
+  '@vitest/mocker@4.1.0(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))':
+    dependencies:
+      '@vitest/spy': 4.1.0
+      estree-walker: 3.0.3
+      magic-string: 0.30.21
+    optionalDependencies:
+      vite: 8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3)
+
   '@vitest/mocker@4.1.0(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.27.7)(jiti@2.7.0)(sass@1.70.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))':
     dependencies:
       '@vitest/spy': 4.1.0
@@ -16791,7 +16796,7 @@ snapshots:
   ajv@8.20.0:
     dependencies:
       fast-deep-equal: 3.1.3
-      fast-uri: 3.1.2
+      fast-uri: 3.1.3
       json-schema-traverse: 1.0.0
       require-from-string: 2.0.2
 
@@ -16842,7 +16847,7 @@ snapshots:
       graceful-fs: 4.2.11
       is-stream: 2.0.1
       lazystream: 1.0.1
-      lodash: 4.17.21
+      lodash: 4.18.1
       normalize-path: 3.0.0
       readable-stream: 4.5.2
 
@@ -16943,7 +16948,7 @@ snapshots:
 
   async@2.6.4:
     dependencies:
-      lodash: 4.17.21
+      lodash: 4.18.1
 
   async@3.2.5: {}
 
@@ -18650,7 +18655,7 @@ snapshots:
       glob: 10.4.5
       json-ptr: 3.1.1
       json-schema-traverse: 1.0.0
-      lodash: 4.17.21
+      lodash: 4.18.1
       openapi3-ts: 3.2.0
       promise-breaker: 6.0.0
       pump: 3.0.0
@@ -18779,8 +18784,6 @@ snapshots:
   fast-redact@3.5.0: {}
 
   fast-safe-stringify@2.1.1: {}
-
-  fast-uri@3.1.2: {}
 
   fast-uri@3.1.3: {}
 
@@ -19087,7 +19090,7 @@ snapshots:
     dependencies:
       lodash: 4.18.1
       mkdirp: 2.1.6
-      subset-font: 2.3.0
+      subset-font: 2.5.0
       yaml: 2.8.3
     optionalDependencies:
       '@fortawesome/fontawesome-free': 5.15.4
@@ -19517,7 +19520,7 @@ snapshots:
       - bufferutil
       - utf-8-validate
 
-  harfbuzzjs@0.3.6: {}
+  harfbuzzjs@0.10.3: {}
 
   has-bigints@1.1.0: {}
 
@@ -19776,7 +19779,7 @@ snapshots:
       cli-width: 3.0.0
       external-editor: 3.1.0
       figures: 3.2.0
-      lodash: 4.17.21
+      lodash: 4.18.1
       mute-stream: 0.0.8
       ora: 5.4.1
       run-async: 2.4.1
@@ -20848,7 +20851,7 @@ snapshots:
   mjml-accordion@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20856,7 +20859,7 @@ snapshots:
   mjml-body@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20864,7 +20867,7 @@ snapshots:
   mjml-button@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20872,7 +20875,7 @@ snapshots:
   mjml-carousel@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20884,7 +20887,7 @@ snapshots:
       glob: 10.4.5
       html-minifier: 4.0.0
       js-beautify: 1.15.1
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
       mjml-migrate: 4.15.0(encoding@0.1.13)
       mjml-parser-xml: 4.15.0
@@ -20896,7 +20899,7 @@ snapshots:
   mjml-column@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20909,7 +20912,7 @@ snapshots:
       html-minifier: 4.0.0
       js-beautify: 1.15.1
       juice: 10.0.0(encoding@0.1.13)
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-migrate: 4.15.0(encoding@0.1.13)
       mjml-parser-xml: 4.15.0
       mjml-validator: 4.13.0
@@ -20919,7 +20922,7 @@ snapshots:
   mjml-divider@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20927,7 +20930,7 @@ snapshots:
   mjml-group@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20935,7 +20938,7 @@ snapshots:
   mjml-head-attributes@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20943,7 +20946,7 @@ snapshots:
   mjml-head-breakpoint@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20951,7 +20954,7 @@ snapshots:
   mjml-head-font@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20959,7 +20962,7 @@ snapshots:
   mjml-head-html-attributes@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20967,7 +20970,7 @@ snapshots:
   mjml-head-preview@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20975,7 +20978,7 @@ snapshots:
   mjml-head-style@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20983,7 +20986,7 @@ snapshots:
   mjml-head-title@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20991,7 +20994,7 @@ snapshots:
   mjml-head@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -20999,7 +21002,7 @@ snapshots:
   mjml-hero@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21007,7 +21010,7 @@ snapshots:
   mjml-image@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21016,7 +21019,7 @@ snapshots:
     dependencies:
       '@babel/runtime': 7.28.4
       js-beautify: 1.15.1
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
       mjml-parser-xml: 4.15.0
       yargs: 17.7.2
@@ -21026,7 +21029,7 @@ snapshots:
   mjml-navbar@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21036,7 +21039,7 @@ snapshots:
       '@babel/runtime': 7.28.4
       detect-node: 2.1.0
       htmlparser2: 9.1.0
-      lodash: 4.17.21
+      lodash: 4.18.1
 
   mjml-preset-core@4.15.0(encoding@0.1.13):
     dependencies:
@@ -21072,7 +21075,7 @@ snapshots:
   mjml-raw@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21080,7 +21083,7 @@ snapshots:
   mjml-section@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21088,7 +21091,7 @@ snapshots:
   mjml-social@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21096,7 +21099,7 @@ snapshots:
   mjml-spacer@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21104,7 +21107,7 @@ snapshots:
   mjml-table@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21112,7 +21115,7 @@ snapshots:
   mjml-text@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
       - encoding
@@ -21124,7 +21127,7 @@ snapshots:
   mjml-wrapper@4.15.0(encoding@0.1.13):
     dependencies:
       '@babel/runtime': 7.28.4
-      lodash: 4.17.21
+      lodash: 4.18.1
       mjml-core: 4.15.0(encoding@0.1.13)
       mjml-section: 4.15.0(encoding@0.1.13)
     transitivePeerDependencies:
@@ -22918,7 +22921,7 @@ snapshots:
 
   sort-any@2.0.0:
     dependencies:
-      lodash: 4.17.21
+      lodash: 4.18.1
 
   sorted-btree@1.8.1: {}
 
@@ -23290,11 +23293,11 @@ snapshots:
     dependencies:
       commander: 12.1.0
 
-  subset-font@2.3.0:
+  subset-font@2.5.0:
     dependencies:
       fontverter: 2.0.0
-      harfbuzzjs: 0.3.6
-      lodash: 4.17.21
+      harfbuzzjs: 0.10.3
+      lodash: 4.18.1
       p-limit: 3.1.0
 
   sucrase@3.35.0:
@@ -23334,7 +23337,7 @@ snapshots:
       glob-slasher: 1.0.1
       is-url: 1.2.4
       join-path: 1.1.1
-      lodash: 4.17.21
+      lodash: 4.18.1
       mime-types: 2.1.35
       minimatch: 6.2.3
       morgan: 1.10.0
@@ -24085,6 +24088,26 @@ snapshots:
       tsx: 4.21.0
       yaml: 2.8.3
 
+  vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3):
+    dependencies:
+      lightningcss: 1.32.0
+      picomatch: 4.0.4
+      postcss: 8.5.8
+      rolldown: 1.0.0-rc.12(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)
+      tinyglobby: 0.2.15
+    optionalDependencies:
+      '@types/node': 24.9.1
+      esbuild: 0.25.0
+      fsevents: 2.3.3
+      jiti: 2.7.0
+      sass: 1.98.0
+      terser: 5.48.0
+      tsx: 4.21.0
+      yaml: 2.8.3
+    transitivePeerDependencies:
+      - '@emnapi/core'
+      - '@emnapi/runtime'
+
   vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.27.7)(jiti@2.7.0)(sass@1.70.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3):
     dependencies:
       lightningcss: 1.32.0
@@ -24208,6 +24231,35 @@ snapshots:
     optionalDependencies:
       '@types/node': 24.9.1
       '@vitest/browser-playwright': 4.0.18(playwright@1.58.2)(vite@7.3.2(@types/node@24.9.1)(jiti@2.7.0)(lightningcss@1.32.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))(vitest@4.1.0)
+      happy-dom: 20.8.9
+      jsdom: 27.4.0
+    transitivePeerDependencies:
+      - msw
+
+  vitest@4.1.0(@types/node@24.9.1)(happy-dom@20.8.9)(jsdom@27.4.0)(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3)):
+    dependencies:
+      '@vitest/expect': 4.1.0
+      '@vitest/mocker': 4.1.0(vite@8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3))
+      '@vitest/pretty-format': 4.1.0
+      '@vitest/runner': 4.1.0
+      '@vitest/snapshot': 4.1.0
+      '@vitest/spy': 4.1.0
+      '@vitest/utils': 4.1.0
+      es-module-lexer: 2.0.0
+      expect-type: 1.3.0
+      magic-string: 0.30.21
+      obug: 2.1.1
+      pathe: 2.0.3
+      picomatch: 4.0.4
+      std-env: 4.1.0
+      tinybench: 2.9.0
+      tinyexec: 1.1.2
+      tinyglobby: 0.2.17
+      tinyrainbow: 3.1.0
+      vite: 8.0.5(@emnapi/core@1.9.0)(@emnapi/runtime@1.9.0)(@types/node@24.9.1)(esbuild@0.25.0)(jiti@2.7.0)(sass@1.98.0)(terser@5.48.0)(tsx@4.21.0)(yaml@2.8.3)
+      why-is-node-running: 2.3.0
+    optionalDependencies:
+      '@types/node': 24.9.1
       happy-dom: 20.8.9
       jsdom: 27.4.0
     transitivePeerDependencies:
